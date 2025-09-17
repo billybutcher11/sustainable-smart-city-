@@ -83,14 +83,7 @@ streamlit run smart_dashboard.py
 
 > Access Dashboard at: [http://localhost:8501](http://localhost:8501)
 
----
-
-## 👩‍💻 Author
-
-This project was built by **Shirisha Kuruva**  
-📧 Email: kuruvashireesha99@gmail.com  
-🔗 GitHub: [Shirisha-Kuruva](https://github.com/Shirisha-Kuruva)  
-🔗 LinkedIn: [Shirisha Kuruva](https://www.linkedin.com/in/shirishakuruva)
+-
 
 ---
 
